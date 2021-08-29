@@ -1,0 +1,16 @@
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\bin\Debug\net5.0\Aptek Console App.exe
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\bin\Debug\net5.0\Aptek Console App.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\bin\Debug\net5.0\Aptek Console App.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\bin\Debug\net5.0\Aptek Console App.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\bin\Debug\net5.0\Aptek Console App.dll
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\bin\Debug\net5.0\ref\Aptek Console App.dll
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\bin\Debug\net5.0\Aptek Console App.pdb
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Aptek Console App.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Aptek Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Aptek Console App.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Aptek Console App.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Aptek Console App.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Aptek Console App.dll
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\obj\Debug\net5.0\ref\Aptek Console App.dll
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Aptek Console App.pdb
+C:\Users\Asus\OneDrive\Masaüstü\projects\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Aptek Console App.genruntimeconfig.cache
